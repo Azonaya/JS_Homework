@@ -5,6 +5,12 @@ if (strToNumber == strToNumber) return false
       return true 
 }  
 
+// SECOND CASE
+// function isnAn(str){
+//     strToNumber = Number(str);  
+// if (strToNumber>0||strToNumber<0||strToNumber==0) return false 
+// else return true 
+//     }  
 
 
 // НАБОР ДЛЯ ТЕСТА
